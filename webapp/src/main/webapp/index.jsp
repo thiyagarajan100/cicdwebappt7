@@ -1,3 +1,3 @@
-<h1> DevOps Automation</h1>
-<h2> Learn QA Automation tools + Devops Tools CI/CD pipelines </h2>
+<h1> DevOps Automation Tomcat7</h1>
+<h2> Running in Tomacat7 from Jenkins </h2>
 <h2> Good Luck. Thankyou</h2>
